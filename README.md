@@ -77,7 +77,7 @@ The **Samarium Project** gathers and processes a comprehensive set of network pa
 
 - First, we start creating the Android application on a hardware device as shown below:
 
-![The Logo](images/Logo.png)
+![The Logo](images/logo.png)
 
 
 
@@ -88,7 +88,8 @@ The **Samarium Project** gathers and processes a comprehensive set of network pa
 - The app continuously collects **mobile network parameters** such as **signal strength, PLMN-ID, LAC, Cell ID, and technology type (2G/3G/4G/5G)**.
 - The device **records** GPS location **(latitude & longitude)** and associates it with signal strength data.
 -
-<img src="images/Data_Collection.png" alt="Data Collection" style="width: 50%; max-width: 200px; height: auto;">
+<img src="images/Data_Collection.png" alt="Data Collection" style="width: 25%; max-width: 100px; height: auto;">
+
 
 
 2️⃣ **Processing & Storage:**
