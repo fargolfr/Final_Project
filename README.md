@@ -88,7 +88,8 @@ The **Samarium Project** gathers and processes a comprehensive set of network pa
 - The app continuously collects **mobile network parameters** such as **signal strength, PLMN-ID, LAC, Cell ID, and technology type (2G/3G/4G/5G)**.
 - The device **records** GPS location **(latitude & longitude)** and associates it with signal strength data.
 -
-![Data_Collection](images/Data_Collection.png)
+<img src="images/Data_Collection.png" alt="Data Collection" style="width: 50%; max-width: 200px; height: auto;">
+
 
 2️⃣ **Processing & Storage:**
 - The collected data is **stored in an SQLite database** for local analysis.
