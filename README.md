@@ -77,7 +77,7 @@ The **Samarium Project** gathers and processes a comprehensive set of network pa
 
 - First, we start creating the Android application on a hardware device as shown below:
 
-<img src="images/logo.png" alt="The Logo" width="2000" height="1000">
+<img src="images/logo.png" alt="The Logo" width="800" height="500">
 
 
 
