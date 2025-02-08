@@ -77,14 +77,20 @@ The **Samarium Project** gathers and processes a comprehensive set of network pa
 
 - First, we start creating the Android application on a hardware device as shown below:
 
-![The Logo](images/logo.png)
+
+
+<img src="images/logo.png" alt="The Logo" style="width: 25%; max-width: 100px; height: auto;">
+
+
 
 
 1️⃣ **Data Collection:**
 - The app continuously collects **mobile network parameters** such as **signal strength, PLMN-ID, LAC, Cell ID, and technology type (2G/3G/4G/5G)**.
 - The device **records** GPS location **(latitude & longitude)** and associates it with signal strength data.
 -
-![Data_Collection](images/Data_Collection.png)
+<img src="images/Data_Collection.png" alt="Data Collection" style="width: 25%; max-width: 100px; height: auto;">
+
+
 
 2️⃣ **Processing & Storage:**
 - The collected data is **stored in an SQLite database** for local analysis.
@@ -94,14 +100,16 @@ The **Samarium Project** gathers and processes a comprehensive set of network pa
 - The **Google Maps API** is used to **display the signal strength visually**.
 - **Color-coded indicators** are used to represent signal strength
 
-![DifferentSignals](images/Different_Qualities.png)
-![DifferentSignals](images/Different_Qualities2.png)
+<img src="images/Different_Qualities.png" alt="DifferentSignals" style="width: 25%; max-width: 100px; height: auto;">
+
+<img src="images/Different_Qualities2.png" alt="DifferentSignals" style="width: 25%; max-width: 100px; height: auto;">
 
 
 4️⃣ **AI-Powered Insights:**
 - The app sends network data to an **AI-powered API** that predicts **network coverage trends** and **suggests optimized routes** for better connectivity.
 
-![Data_Analyse](images/Data_Analyse.png)
+
+<img src="images/Data_Analyse.png" alt="Data_Analyse" style="width: 25%; max-width: 100px; height: auto;">
 
 ##  Application Outputs
 
