@@ -141,7 +141,7 @@ The **Samarium Project** gathers and processes a comprehensive set of network pa
 
 ##  How to Run
 
-Follow these steps to set up and run the ** Project** on your local machine:
+Follow these steps to set up and run the  Project on your local machine:
 
 ### 1️⃣ Clone the Repository
 First, download the project files by cloning the repository.
