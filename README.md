@@ -77,20 +77,14 @@ The **Samarium Project** gathers and processes a comprehensive set of network pa
 
 - First, we start creating the Android application on a hardware device as shown below:
 
-
-
-<img src="images/logo.png" alt="The Logo" style="width: 25%; max-width: 100px; height: auto;">
-
-
+![The Logo](images/logo.png)
 
 
 1️⃣ **Data Collection:**
 - The app continuously collects **mobile network parameters** such as **signal strength, PLMN-ID, LAC, Cell ID, and technology type (2G/3G/4G/5G)**.
 - The device **records** GPS location **(latitude & longitude)** and associates it with signal strength data.
 -
-<img src="images/Data_Collection.png" alt="Data Collection" style="width: 25%; max-width: 100px; height: auto;">
-
-
+![Data_Collection](images/Data_Collection.png)
 
 2️⃣ **Processing & Storage:**
 - The collected data is **stored in an SQLite database** for local analysis.
@@ -100,16 +94,14 @@ The **Samarium Project** gathers and processes a comprehensive set of network pa
 - The **Google Maps API** is used to **display the signal strength visually**.
 - **Color-coded indicators** are used to represent signal strength
 
-<img src="images/Different_Qualities.png" alt="DifferentSignals" style="width: 25%; max-width: 100px; height: auto;">
-
-<img src="images/Different_Qualities2.png" alt="DifferentSignals" style="width: 25%; max-width: 100px; height: auto;">
+![DifferentSignals](images/Different_Qualities.png)
+![DifferentSignals](images/Different_Qualities2.png)
 
 
 4️⃣ **AI-Powered Insights:**
 - The app sends network data to an **AI-powered API** that predicts **network coverage trends** and **suggests optimized routes** for better connectivity.
 
-
-<img src="images/Data_Analyse.png" alt="Data_Analyse" style="width: 25%; max-width: 100px; height: auto;">
+![Data_Analyse](images/Data_Analyse.png)
 
 ##  Application Outputs
 
@@ -148,7 +140,7 @@ First, download the project files by cloning the repository.
 
 ### 2️⃣ Open the Project in Android Studio
 - Launch **Android Studio**.
-- Click **"Open"** and select the **Project's** folder.
+- Click **"Open"** and select the Project's folder.
 
 
 
